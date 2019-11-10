@@ -3,9 +3,9 @@ The data set contains labelled logs from a production Hadoop Distributed File Sy
 
 Original source: http://iiis.tsinghua.edu.cn/~weixu/sospdata.html
 
-sorted.log:      Raw log (sorted by time stamp)
-col_header.txt:  Which log message each column represents
-rawTFVector.txt: Message count matrix
-mlabel.txt:      Labels faults ("1") or no-faults ("0") in first column; each
-                 line corresponds to a line in rawTFVector.txt
+  sorted.log:      Raw log (sorted by time stamp)
+  col_header.txt:  Which log message each column represents
+  rawTFVector.txt: Message count matrix
+  mlabel.txt:      Labels faults ("1") or no-faults ("0") in first column; each
+                   line corresponds to a line in rawTFVector.txt
 
